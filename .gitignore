@@ -1,0 +1,4 @@
+.env
+myenv/
+__pycachhe__/
+node_modules/
