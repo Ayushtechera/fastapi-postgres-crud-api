@@ -2,7 +2,7 @@
 
 A simple learning project built to understand FastAPI, PostgreSQL, SQLAlchemy ORM, and REST API development.
 
-![Project Screenshot](assets\project-preview.png)
+![Project Screenshot](assets/project-preview.png)
 
 ## ✨ Features
 
